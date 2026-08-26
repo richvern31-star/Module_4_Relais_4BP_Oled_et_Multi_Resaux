@@ -15,7 +15,7 @@ L'état des relais est synchronisé en temps réel sur la page web via une requ�
 
 | Élément  |GPIO|  Rôle   |
 |----------|----|---------|
-| Relais 1 | 32 | Jardin  |
+| Relais 1 | 32 | Relais N°1  |
 | Relais 2 | 33 | Portail |
 | Relais 3 | 25 | Salon   |
 | Relais 4 | 26 | Cuisine |
