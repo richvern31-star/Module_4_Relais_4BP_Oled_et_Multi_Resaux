@@ -16,13 +16,13 @@ L'état des relais est synchronisé en temps réel sur la page web via une requ�
 | Élément  |GPIO|  Rôle   |
 |----------|----|---------|
 | Relais 1 | 32 | Relais N°1  |
-| Relais 2 | 33 | Portail |
-| Relais 3 | 25 | Salon   |
-| Relais 4 | 26 | Cuisine |
-|   BP 1   | 14 | Relais K1 32 (Jardin) |                                                            
-|   BP 2   | 16 | Relais K2 33 (Portail) |
-|   BP 3   | 17 | Relais K3 25 (Salon) |
-|   BP 4   | 18 | Relais K4 26 (Cuisine) |
+| Relais 2 | 33 | Relais N°2 |
+| Relais 3 | 25 | Relais N°3   |
+| Relais 4 | 26 | Relais N°4 |
+|   BP 1   | 14 | Relais K1 32  |                                                            
+|   BP 2   | 16 | Relais K2 33  |
+|   BP 3   | 17 | Relais K3 25  |
+|   BP 4   | 18 | Relais K4 26  |
 
 **Câblage des boutons poussoir** : chaque bouton relie sa broche GPIO à la masse (**GND**). 
 - Les entrées sont configurées en `INPUT_PULLUP` (résistance de tirage interne activée), donc :
