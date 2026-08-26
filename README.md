@@ -82,10 +82,10 @@ Il suffit de modifier le tableau `SORTIES[]` dans le code — le nombre de sorti
 
 ```cpp
 const Sortie SORTIES[] = {
-  {32, "SRelais N°1"},
-  {33, "Relais N°2"},
-  {25, "Relais N°3"},
-  {26, "Relais N°4"}
+  {32, "Relais K1"},
+  {33, "Relais K2"},
+  {25, "Relais K3"},
+  {26, "Relais K4"}
 };
 ```
 
